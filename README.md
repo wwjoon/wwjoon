@@ -7,15 +7,14 @@
 <section>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node-3c873a?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
-  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/k8s-326CE5?style=flat&logo=Kubernetes&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=black">
 </section>
 
 ### 경력
