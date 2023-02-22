@@ -24,7 +24,7 @@
 | [MANNA CEA](https://mannacea.com/) | 선임 연구원 | 19.01 ~ 22.08 |
 | [대신정보통신(주)](http://www.dsic.co.kr/) | 대리 | 16.02 ~ 18.10 |
 
-### 소셜
+### ETC
 
 <section>
   <a href="https://aiday.tistory.com/" target="_blank">
