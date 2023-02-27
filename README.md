@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Node-3c873a?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollographql&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/k8s-326CE5?style=flat&logo=Kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=black">
