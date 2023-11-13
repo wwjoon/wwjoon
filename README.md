@@ -28,10 +28,6 @@
 
 ### ETC
 
-<section>
-  <a href="https://aiday.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-000000?logo=Tistory&logoColor=white"/>
-  </a>
   <a href="mailto:gogownsduq@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
